@@ -7,10 +7,10 @@ The goal of this project is to implement an encryption/decryption program by usi
 
 ## Design of the Program
 The program consists of four general modules:
-• AES algorithm [1] for symmetric encryption/decryption
-• RSA algorithm [2] for public key encryption/decryption
-• SHA1 algorithm [3] used to hash the password of the user
-• The Main module to manage the program
+* AES algorithm [1] for symmetric encryption/decryption
+* RSA algorithm [2] for public key encryption/decryption
+* SHA1 algorithm [3] used to hash the password of the user
+* The Main module to manage the program
 
 ## Main Module
 
@@ -20,6 +20,6 @@ Encryption and decryption processes is based on the AES algorithm. In this modul
 
 ## References
 
-[1]https://github.com/dhuertas/AES 
-[2] https://github.com/pantaloons/RSA 
-[3] https://github.com/clibs/sha1
+* [1] https://github.com/dhuertas/AES 
+* [2] https://github.com/pantaloons/RSA 
+* [3] https://github.com/clibs/sha1
